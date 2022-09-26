@@ -1,0 +1,13 @@
+C:\Users\Simon\Documents\Универ\ФІТ\2 курс\ООП\Laboratorna-2\Laboratorna2\Laboratorna2\bin\Debug\netcoreapp3.1\Laboratorna2,1.exe
+C:\Users\Simon\Documents\Универ\ФІТ\2 курс\ООП\Laboratorna-2\Laboratorna2\Laboratorna2\bin\Debug\netcoreapp3.1\Laboratorna2,1.deps.json
+C:\Users\Simon\Documents\Универ\ФІТ\2 курс\ООП\Laboratorna-2\Laboratorna2\Laboratorna2\bin\Debug\netcoreapp3.1\Laboratorna2,1.runtimeconfig.json
+C:\Users\Simon\Documents\Универ\ФІТ\2 курс\ООП\Laboratorna-2\Laboratorna2\Laboratorna2\bin\Debug\netcoreapp3.1\Laboratorna2,1.runtimeconfig.dev.json
+C:\Users\Simon\Documents\Универ\ФІТ\2 курс\ООП\Laboratorna-2\Laboratorna2\Laboratorna2\bin\Debug\netcoreapp3.1\Laboratorna2,1.dll
+C:\Users\Simon\Documents\Универ\ФІТ\2 курс\ООП\Laboratorna-2\Laboratorna2\Laboratorna2\bin\Debug\netcoreapp3.1\Laboratorna2,1.pdb
+C:\Users\Simon\Documents\Универ\ФІТ\2 курс\ООП\Laboratorna-2\Laboratorna2\Laboratorna2\obj\Debug\netcoreapp3.1\Laboratorna2,1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Simon\Documents\Универ\ФІТ\2 курс\ООП\Laboratorna-2\Laboratorna2\Laboratorna2\obj\Debug\netcoreapp3.1\Laboratorna2,1.AssemblyInfoInputs.cache
+C:\Users\Simon\Documents\Универ\ФІТ\2 курс\ООП\Laboratorna-2\Laboratorna2\Laboratorna2\obj\Debug\netcoreapp3.1\Laboratorna2,1.AssemblyInfo.cs
+C:\Users\Simon\Documents\Универ\ФІТ\2 курс\ООП\Laboratorna-2\Laboratorna2\Laboratorna2\obj\Debug\netcoreapp3.1\Laboratorna2,1.csproj.CoreCompileInputs.cache
+C:\Users\Simon\Documents\Универ\ФІТ\2 курс\ООП\Laboratorna-2\Laboratorna2\Laboratorna2\obj\Debug\netcoreapp3.1\Laboratorna2,1.dll
+C:\Users\Simon\Documents\Универ\ФІТ\2 курс\ООП\Laboratorna-2\Laboratorna2\Laboratorna2\obj\Debug\netcoreapp3.1\Laboratorna2,1.pdb
+C:\Users\Simon\Documents\Универ\ФІТ\2 курс\ООП\Laboratorna-2\Laboratorna2\Laboratorna2\obj\Debug\netcoreapp3.1\Laboratorna2,1.genruntimeconfig.cache
